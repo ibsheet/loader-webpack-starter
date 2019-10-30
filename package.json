@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.4.0",
-    "@ibsheet/loader": "^1.0.3",
+    "@ibsheet/loader": "latest",
     "core-js": "^3.2.1"
   }
 }
