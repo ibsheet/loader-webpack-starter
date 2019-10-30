@@ -2,23 +2,27 @@
 
 [`@ibsheet/loader`](https://github.com/ibsheet/loader) starter for webpack
 
-## clone project
+## Clone Project
 
 ```bash
 git clone https://github.com/ibsheet/loader-webpack-starter ibl-webpack-starter
 cd ibl-webpack-starter
 ```
 
-## setup and start
+## Copy IBSheet Library
 
-#### Using npm:
+copy to: `public/ibsheet`
+
+## Start
+
+### Using npm:
 
 ```
 npm install
 npm start
 ```
 
-#### Using yarn:
+### Using yarn:
 
 ```
 yarn
