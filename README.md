@@ -2,6 +2,8 @@
 
 [`@ibsheet/loader`](https://github.com/ibsheet/loader) starter for webpack
 
+based on <https://github.com/wbkd/webpack-starter>
+
 ## Clone Project
 
 ```bash
