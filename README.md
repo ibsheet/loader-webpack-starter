@@ -11,7 +11,7 @@ git clone https://github.com/ibsheet/loader-webpack-starter ibl-webpack-starter
 cd ibl-webpack-starter
 ```
 
-## Copy IBSheet Library
+## Copy IB Sheet Library
 
 copy to: `public/ibsheet`
 
